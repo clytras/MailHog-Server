@@ -1,4 +1,4 @@
-MailHog Server [![Build Status](https://travis-ci.org/mailhog/MailHog-Server.svg?branch=master)](https://travis-ci.org/mailhog/MailHog-Server)
+MailHog Server [![Build Status](https://travis-ci.org/clytras/MailHog-Server.svg?branch=master)](https://travis-ci.org/clytras/MailHog-Server)
 =========
 
 MailHog-Server is the MailHog SMTP and HTTP API server.
